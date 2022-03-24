@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.01.00">
+	<object class="AudioFile" id="{2d1e1786-5097-4dd4-80f9-c24fb62fca4e}">
+		<property name="assetPath">
+			<value>OLD/ES_Sci Fi Jet Pack 1 - SFX Producer (1).wav</value>
+		</property>
+		<property name="isStreaming">
+			<value>true</value>
+		</property>
+		<property name="frequencyInKHz">
+			<value>48</value>
+		</property>
+		<property name="channelCount">
+			<value>2</value>
+		</property>
+		<property name="length">
+			<value>10.144</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{da2a5c96-a7c8-46f1-a8fb-e7eb15927a11}</destination>
+		</relationship>
+	</object>
+</objects>

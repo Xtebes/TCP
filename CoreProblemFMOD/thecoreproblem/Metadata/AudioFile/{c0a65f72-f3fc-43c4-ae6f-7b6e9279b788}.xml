@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.01.00">
+	<object class="AudioFile" id="{c0a65f72-f3fc-43c4-ae6f-7b6e9279b788}">
+		<property name="color">
+			<value>Red Light 1</value>
+		</property>
+		<property name="assetPath">
+			<value>OLD/03-step 3-consolidated.wav</value>
+		</property>
+		<property name="frequencyInKHz">
+			<value>48</value>
+		</property>
+		<property name="channelCount">
+			<value>2</value>
+		</property>
+		<property name="length">
+			<value>4.9827291666666671</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{da2a5c96-a7c8-46f1-a8fb-e7eb15927a11}</destination>
+		</relationship>
+	</object>
+</objects>

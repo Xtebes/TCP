@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.01.00">
+	<object class="ParameterPreset" id="{7797f6a2-68e5-4b06-93d7-12427e472487}">
+		<property name="name">
+			<value>StartJetpack</value>
+		</property>
+		<relationship name="folder">
+			<destination>{5ad51077-cae8-4d3c-9397-de2e718a4acd}</destination>
+		</relationship>
+		<relationship name="parameter">
+			<destination>{a34499f0-3730-4fab-9bc3-6a6d653a7e0e}</destination>
+		</relationship>
+	</object>
+	<object class="GameParameter" id="{a34499f0-3730-4fab-9bc3-6a6d653a7e0e}">
+		<property name="initialValue">
+			<value>0</value>
+		</property>
+	</object>
+</objects>
